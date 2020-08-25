@@ -1,0 +1,145 @@
+img{
+    width: 300px;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+}
+.img1{
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+.imgco{
+    width: 50px;
+}
+.imgco2{
+    width: 140px;
+}
+.quitar-float{
+    float: none;
+}
+.espacio-arriba{
+    margin-top: 25px;
+}
+.centerBlock{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lobster{
+    font-family: 'Lobster', cursive;
+}
+.oswal{
+    font-family: 'Oswald', sans-serif;
+}
+.col{
+    color: #FBFEF0;
+}
+.m-c{
+    font-size: 50px;
+    
+}
+.gris{
+    color: #3E3B35;
+}
+.bordo{
+    color: #970200;
+}
+.negro{
+    color:#070707;
+}
+.naranja{
+    color: #FE4103;
+}
+.blanco{
+    color: #FBFEF0;
+}
+.iconoMenu{
+    width: 30px;
+}
+.inviboton{
+    border: 0px;
+}
+.back{
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FBFEF0;
+    background-position: top center;
+
+ }
+.demora{
+    animation-delay: 0.5s;
+}
+.demora2{
+    animation-delay: 0.75s;
+}.opa{
+    opacity: 0.8;
+}.posicion{
+    position: absolute;
+    left: 430px;
+}
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+}
+#customers2 {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+}
+#customers td, #customers th,#customers2 th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    background-color: #970200;
+    color: #ffffff;
+  }
+
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #3E3B35;
+    color: #FE4103;  
+  }
+  #customers2 th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #3E3B35;
+    color: #ffffff;  
+  }
+.titabl{
+    font-size: 25px;
+}
+.izq{
+    float: left;
+  }
+  .der{
+    float: right;
+  }
+.promo{
+    margin: auto;
+    width: 50%;
+    background-color: #3E3B35;
+    color: #FBFEF0;
+    border: 1px solid #ddd;
+    padding: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.contact{
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+
+}
